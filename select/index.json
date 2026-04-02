@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Star (Voice English Version)",
+  "base_artist": "LOONA",
+  "createdAt": "2026-04-02T15:26:45.782897Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Star (Voice English Ver.)",
+      "artist": "LOONA",
+      "has_synced": true,
+      "path": "select/01_Star_(Voice_English_Ver.)_LOONA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Star (Voice English Ver.)",
+      "artist": "LOOΠΔ",
+      "has_synced": true,
+      "path": "select/02_Star_(Voice_English_Ver.)_LOOΠΔ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Star (Voice English Ver.) (Star (목소리 English Ver.))",
+      "artist": "LOONA",
+      "has_synced": true,
+      "path": "select/03_Star_(Voice_English_Ver.)_(Star_(목소리_English_Ver.))_LOONA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Star (Voice English Version)",
+      "artist": "LOONA",
+      "has_synced": true,
+      "path": "select/04_Star_(Voice_English_Version)_LOONA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Oye Mi Canto (Hear My Voice) (English Version)",
+      "artist": "Gloria Estefan",
+      "has_synced": true,
+      "path": "select/05_Oye_Mi_Canto_(Hear_My_Voice)_(English_Version)_Gloria_Estefan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "VOICE - English Ver.",
+      "artist": "Tacitly",
+      "has_synced": true,
+      "path": "select/06_VOICE_-_English_Ver._Tacitly.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lend Me Your Voice (English version)",
+      "artist": "Belle",
+      "has_synced": true,
+      "path": "select/07_Lend_Me_Your_Voice_(English_version)_Belle.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Oye Mi Canto (Hear My Voice) (English Version)",
+      "artist": "Gloria Estefan",
+      "has_synced": false,
+      "path": "select/08_Oye_Mi_Canto_(Hear_My_Voice)_(English_Version)_Gloria_Estefan.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lend Me Your Voice [English Version]",
+      "artist": "Belle (Kaho Nakamura)",
+      "has_synced": true,
+      "path": "select/09_Lend_Me_Your_Voice_[English_Version]_Belle_(Kaho_Nakamura).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oye Mi Canto (Hear My Voice) (English)",
+      "artist": "Gloria Estefan",
+      "has_synced": true,
+      "path": "select/10_Oye_Mi_Canto_(Hear_My_Voice)_(English)_Gloria_Estefan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Oye mi canto (Hear My Voice) (English version) (12\" Pablo dub)",
+      "artist": "Gloria Estefan",
+      "has_synced": true,
+      "path": "select/11_Oye_mi_canto_(Hear_My_Voice)_(English_version)_(12__Pablo_dub)_Gloria_Estefan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lend Me Your Voice (English Version)",
+      "artist": "Belle",
+      "has_synced": true,
+      "path": "select/12_Lend_Me_Your_Voice_(English_Version)_Belle.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Oye Mi Canto (Hear My Voice) [English]",
+      "artist": "Gloria Estefan",
+      "has_synced": false,
+      "path": "select/13_Oye_Mi_Canto_(Hear_My_Voice)_[English]_Gloria_Estefan.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Oye Mi Canto (Hear My Voice) [English Version]",
+      "artist": "Gloria Estefan",
+      "has_synced": true,
+      "path": "select/14_Oye_Mi_Canto_(Hear_My_Voice)_[English_Version]_Gloria_Estefan.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Oye Mi Canto (Hear My Voice) (English)",
+      "artist": "Gloria Estefan",
+      "has_synced": false,
+      "path": "select/15_Oye_Mi_Canto_(Hear_My_Voice)_(English)_Gloria_Estefan.txt"
+    }
+  ]
+}
